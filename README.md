@@ -9,6 +9,7 @@ LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NimGame.py)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfThree.py)
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CountingBits.py)
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfFour.py)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseString.py)
 
 
