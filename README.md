@@ -15,6 +15,8 @@ LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseString.py)
 
 ### Database
+| # | Title | Solution |
+|---| ----- | -------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/steven5538/leetcode/blob/master/database/CombineTwoTables.sql)
 
 
