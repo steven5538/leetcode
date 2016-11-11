@@ -5,6 +5,8 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/TwoSum.py)
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python] (https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseInteger.py)
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python] (https://github.com/steven5538/leetcode/blob/master/algorithms/LengthofLastWord.py)
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SingleNumber.py)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Numberof1Bits.py)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfTwo.py)
