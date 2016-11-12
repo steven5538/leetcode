@@ -16,6 +16,7 @@ LeetCode
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CountingBits.py)
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfFour.py)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseString.py)
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FizzBuzz.py)
 
 ### Database
 | # | Title | Solution |
