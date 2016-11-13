@@ -18,6 +18,7 @@ LeetCode
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfFour.py)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseString.py)
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/IntersectionofTwoArrays.py)
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RansomNote.py)
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FindtheDifference.py)
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FizzBuzz.py)
 
