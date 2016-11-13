@@ -10,6 +10,7 @@ LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SingleNumber.py)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Numberof1Bits.py)
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RectangleArea.py)
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/InvertBinaryTree.py)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfTwo.py)
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NimGame.py)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfThree.py)
