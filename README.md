@@ -20,6 +20,7 @@ LeetCode
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/UglyNumber.py)
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MoveZeroes.py)
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NimGame.py)
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RangeSumQueryImmutable.py)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfThree.py)
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CountingBits.py)
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfFour.py)
