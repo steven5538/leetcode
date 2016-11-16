@@ -17,6 +17,7 @@ LeetCode
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/InvertBinaryTree.py)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfTwo.py)
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/DeleteNodeinaLinkedList.py)
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/UglyNumber.py)
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MoveZeroes.py)
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NimGame.py)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfThree.py)
