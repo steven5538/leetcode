@@ -11,6 +11,7 @@ LeetCode
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SameTree.py)
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MaximumDepthofBinaryTree.py)
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SingleNumber.py)
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CompareVersionNumbers.py)
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnTitle.py)
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnNumber.py)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Numberof1Bits.py)
@@ -31,8 +32,8 @@ LeetCode
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FirstUniqueCharacterinaString.py)
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FindtheDifference.py)
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RotateFunction.py)
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ThirdMaximumNumber.py)
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FizzBuzz.py)
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ThirdMaximumNumber.py)
 
 ### Database
 | # | Title | Solution |
