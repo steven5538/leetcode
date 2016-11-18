@@ -40,6 +40,7 @@ LeetCode
 |---| ----- | -------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/steven5538/leetcode/blob/master/database/CombineTwoTables.sql)
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/steven5538/leetcode/blob/master/database/SecondHighestSalary.sql)
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](https://github.com/steven5538/leetcode/blob/master/database/EmployeesEarningMoreThanTheirManagers.sql)
 
 
 
