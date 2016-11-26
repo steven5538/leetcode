@@ -6,6 +6,7 @@ LeetCode
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/TwoSum.py)
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python] (https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseInteger.py)
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ValidParentheses.py)
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/LengthofLastWord.py)
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PlusOne.py)
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SameTree.py)
