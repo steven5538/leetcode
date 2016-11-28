@@ -27,6 +27,7 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MoveZeroes.py)
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/WordPattern.py)
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NimGame.py)
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/BullsandCows.py)
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RangeSumQueryImmutable.py)
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfThree.py)
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CountingBits.py)
