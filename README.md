@@ -32,6 +32,7 @@ LeetCode
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfThree.py)
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CountingBits.py)
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfFour.py)
+|343|[Integer Break](https://leetcode.com/problems/integer-break/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/IntegerBreak.py)
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseString.py)
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseVowelsofaString.py)
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/IntersectionofTwoArrays.py)
