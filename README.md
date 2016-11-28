@@ -5,6 +5,7 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/TwoSum.py)
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python]((https://github.com/steven5538/leetcode/blob/master/algorithms/AddTwoNumbers.py)
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python] (https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseInteger.py)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ValidParentheses.py)
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/LengthofLastWord.py)
