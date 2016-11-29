@@ -25,6 +25,7 @@ LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/DeleteNodeinaLinkedList.py)
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ValidAnagram.py)
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/UglyNumber.py)
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MissingNumber.py)
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MoveZeroes.py)
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/WordPattern.py)
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NimGame.py)
