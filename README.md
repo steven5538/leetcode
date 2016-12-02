@@ -22,6 +22,7 @@ LeetCode
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnTitle.py)
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnNumber.py)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Numberof1Bits.py)
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/HappyNumber.py)
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RectangleArea.py)
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/InvertBinaryTree.py)
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/PowerOfTwo.py)
