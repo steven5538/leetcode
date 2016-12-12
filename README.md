@@ -49,6 +49,7 @@ LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FindtheDifference.py)
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/IsSubsequence.py)
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RotateFunction.py)
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SumofLeftLeaves.py)
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FizzBuzz.py)
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ArithmeticSlices.py)
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ThirdMaximumNumber.py)
