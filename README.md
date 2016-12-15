@@ -20,6 +20,7 @@ LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/SingleNumber.py)
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/CompareVersionNumbers.py)
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnTitle.py)
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MajorityElement.py)
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnNumber.py)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Numberof1Bits.py)
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/HappyNumber.py)
