@@ -58,6 +58,7 @@ LeetCode
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ArithmeticSlices.py)
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ThirdMaximumNumber.py)
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ArrangingCoins.py)
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FindAllDuplicatesinanArray.py)
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MinimumMovestoEqualArrayElements.py)
 
 ### Database
