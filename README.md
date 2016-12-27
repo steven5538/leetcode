@@ -10,6 +10,7 @@ LeetCode
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RomantoInteger.py)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ValidParentheses.py)
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MergeTwoSortedLists.py)
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RemoveDuplicatesfromSortedArray.py)
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Permutations.py)
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MaximumSubarray.py)
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/LengthofLastWord.py)
