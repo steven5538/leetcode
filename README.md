@@ -27,6 +27,7 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MajorityElement.py)
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ExcelSheetColumnNumber.py)
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RotateArray.py)
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseBits.py)
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/Numberof1Bits.py)
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/HappyNumber.py)
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RemoveLinkedListElements.py)
