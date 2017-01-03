@@ -64,6 +64,7 @@ LeetCode
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FizzBuzz.py)
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ArithmeticSlices.py)
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ThirdMaximumNumber.py)
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/NumberofSegmentsinaString.py)
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ArrangingCoins.py)
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FindAllDuplicatesinanArray.py)
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/FindAllNumbersDisappearedinanArray.py)
