@@ -5,8 +5,8 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/TwoSum.py)
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python]((https://github.com/steven5538/leetcode/blob/master/algorithms/AddTwoNumbers.py)
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python] (https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseInteger.py)
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/AddTwoNumbers.py)
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ReverseInteger.py)
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/RomantoInteger.py)
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/ValidParentheses.py)
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/steven5538/leetcode/blob/master/algorithms/MergeTwoSortedLists.py)
